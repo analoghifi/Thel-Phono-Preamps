@@ -13,5 +13,5 @@ Ultra-High-End:
 * "Phono HQX" 12/2017  https://web.archive.org/web/20180203012402/http://www.thel-audioworld.de/module/phono/phono-hqx.htm
 * "Sound of Silence" 09/2018  
 Mono module / really\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
-\*(no ground reference at any point of the circuit)  
+\*(no ground reference at any point in the audio signal chain)  
 https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm
