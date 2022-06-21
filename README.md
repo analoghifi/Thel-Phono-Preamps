@@ -14,4 +14,12 @@ Ultra-High-End:
 * <b>"Sound of Silence" 09/2018</b>  
 Mono module / really\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
-https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm
+https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm  
+
+----
+#### "Beautiful-Noise":  
+<img src="pics/Beautiful_noise__2020.jpg" />  
+
+#### "Sound of Silence":  
+<img src="pics/Sound_of_Silence_2021.jpg" />  
+
