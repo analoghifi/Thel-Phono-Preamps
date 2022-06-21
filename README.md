@@ -4,6 +4,7 @@
 * "Phono-HQ" 12/2017 https://web.archive.org/web/20180203013342/http://www.thel-audioworld.de/module/phono/phono-hq.htm
 * <b>"Beautiful-Noise" 09/2018</b>  
 Stereo module / 2 channels galvanically isolated / single ended inputs, single ended outputs  
+two-stage passive RIAA-filter  
 adjustable gain (6-step) / input resistance changeable (by soldering) / input capacity changeable (by soldering)  
 https://web.archive.org/web/20190110103246/http://www.thel-audioworld.de/module/phono/Phonovorstufe-B.htm
 
@@ -15,6 +16,7 @@ https://web.archive.org/web/20190110103246/http://www.thel-audioworld.de/module/
 * <b>"Sound of Silence" 09/2018</b>  
 Mono module / really\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
+two-stage passive RIAA-filter  
 adjustable input resistor (16-step) / adjustable input capacity (16-step) / adjustable gain (16-step)  
 https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm  
 
