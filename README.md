@@ -3,7 +3,7 @@ High-End:
 * "Phono-M" 2006 https://web.archive.org/web/20070626215210/http://www.thel-audioworld.de/module/phono/phono-M.htm
 * "Phono-HQ" 12/2017 https://web.archive.org/web/20180203013342/http://www.thel-audioworld.de/module/phono/phono-hq.htm
 * "Beautiful-Noise" 09/2018  
-Stereo module / 2 channels galvanically isolated / single ended inputs, single ended outputs
+Stereo module / 2 channels galvanically isolated / single ended inputs, single ended outputs  
 https://web.archive.org/web/20190110103246/http://www.thel-audioworld.de/module/phono/Phonovorstufe-B.htm
 
 Ultra-High-End:  
@@ -12,5 +12,5 @@ Ultra-High-End:
 * "Phono-X" 2007-2017 https://web.archive.org/web/20070312044356/http://www.thel-audioworld.de/module/phono/phono.htm
 * "Phono HQX" 12/2017  https://web.archive.org/web/20180203012402/http://www.thel-audioworld.de/module/phono/phono-hqx.htm
 * "Sound of Silence" 09/2018  
-Mono module / fully symmetrical / balanced input -> balanced filter stages -> balanced output
+Mono module / fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm
