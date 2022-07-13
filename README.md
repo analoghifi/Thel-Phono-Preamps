@@ -14,7 +14,7 @@ https://web.archive.org/web/20190110103246/http://www.thel-audioworld.de/module/
 * "Phono-X" 2007-2017 https://web.archive.org/web/20070312044356/http://www.thel-audioworld.de/module/phono/phono.htm
 * "Phono HQX" 12/2017  https://web.archive.org/web/20180203012402/http://www.thel-audioworld.de/module/phono/phono-hqx.htm
 * <b>\"<a href="/hardware/sound%20of%20">Sound of Silence</a>\" 09/2018</b>  
-Mono module / really\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
+Mono module / true\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
 two-stage passive RIAA-filter  
 adjustable input resistor (16-step) / adjustable input capacity (16-step) / adjustable gain (16-step)  
