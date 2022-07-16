@@ -1,5 +1,5 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
-* different dimensions original: xxmm x xxmm -> this PCB: 155mm x 69.65mm  
+* different board dimensions original: xxmm x xxmm -> this PCB: 155mm x 69.65mm  
 * mounting hole spacing original: original: xxmm x xxmm -> this PCB: 148mm x 62mm  
 * make use of my \"universal capacitor footprint\" for the filter caps (C1,C21,C22,C23,C24,C25,C26,C27) -> see here T.B.D.  
 * C1 is in a different location on the board  
