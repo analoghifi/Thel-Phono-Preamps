@@ -13,7 +13,7 @@ https://web.archive.org/web/20190110103246/http://www.thel-audioworld.de/module/
 * "VP2000" 2002 https://web.archive.org/web/20020410123225/http://thel-audioworld.de/module/phono/phono.htm
 * "Phono-X" 2007-2017 https://web.archive.org/web/20070312044356/http://www.thel-audioworld.de/module/phono/phono.htm
 * "Phono HQX" 12/2017  https://web.archive.org/web/20180203012402/http://www.thel-audioworld.de/module/phono/phono-hqx.htm
-* <b>\"<a href="/hardware/sound%20of%20">Sound of Silence</a>\" 09/2018</b>  
+* <b>\"<a href="/hardware/sound%20of%20silence">Sound of Silence</a>\" 09/2018</b>  
 Mono module / true\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
 two-stage passive RIAA-filter  
@@ -23,7 +23,8 @@ https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/
 ----
 #### "Beautiful-Noise":  
 <img src="pics/Beautiful_noise__2020.jpg" />  
-
+  
+.  
+  
 #### "Sound of Silence":  
 <img src="pics/Sound_of_Silence_2021.jpg" />  
-
