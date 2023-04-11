@@ -1,4 +1,4 @@
-### RIAA Preamp "Sound of Silenc":  
+### RIAA Preamp "Sound of Silence":  
 Mono module / true\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
 two-stage passive RIAA-filter  
