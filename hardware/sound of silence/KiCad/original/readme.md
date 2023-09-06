@@ -23,9 +23,10 @@ or WIMA [FKP2-Series](https://github.com/analoghifi/capacitors/blob/main/audio%2
 #### R6,R7:  
 one can use 23,7kΩ or 24kΩ instead  
 or use 2x47kΩ in parallel each  
-when using MM-Systems: for lower noise one may use low-TCR-types  
-(25ppm/°C or lower) if available  
+when using MM-Systems (choosing R<sub>in</sub> = 47kΩ [SW2=0]):  
+for lower noise one may use low-TCR-types (25ppm/°C or lower) if available  
 e.g. Vishay "[CMF Industrial](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=CMF%20Industrial)" series  
+or Vishay [PTF series](https://www.mouser.de/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=PTF) (even lower TCR)  
 or Tyco (TE Connectivity) type "[YR1B23k7CC](https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/YR1B23K7CC?qs=n4i9pByFsMSkJXItUSDcPw%3D%3D)" (23.7kΩ / 0.1% / 15ppm/°C) [from the Tyco ["YR1-series" (R-series)](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=TE%20Connectivity&series=R)]
   
 ----  
