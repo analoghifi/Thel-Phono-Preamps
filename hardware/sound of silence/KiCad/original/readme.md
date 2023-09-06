@@ -9,6 +9,24 @@ this is not the original Thel PCB but it's very like\* the original with the fol
   
 \*(same schematic / same 1-layer\** layout THT / same THT components in the same places on the board)  
 \**(strictly speaking, this KiCad PCB is a two-layer PCB with plated-through holes, but you can also (let) produce it as a classic 1-layer PCB with non-plated holes if you wish, since all the tracks are on the bottom side only)  
+
+----  
+
+### remarks:  
+#### C3,C4,C5,C6,C7:  
+use ceramic C0G capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 50V, 63V or 100V / PCM 5mm or 7,5mm)  
+e.g. KEMET "[goldmax 300](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/C0G/KEMET_C1049_GOLDMAX_C0G_THT.pdf)" Series in THT version  
+or alternatively if you don't like ceramic capacitors:  
+small polypropylene Film/Foil Capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 63V or 100V / PCM 5mm or 7,5mm)  
+e.g. KEMET [PFR-("Evox")](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/KEMET_PFR_Serie_KP.pdf)-Series  
+or WIMA [FKP2-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf) (not FKP**0**2)  
+#### R6,R7:  
+one can use 23,7kΩ or 24kΩ instead  
+or use 2x47kΩ in parallel each  
+when using MM-Systems: for lower noise one may use low-TCR-types  
+(25ppm/°C or lower) if available  
+e.g. Vishay "[CMF Industrial](https://www.mouser.de/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=CMF%20Industrial)" series  
+or Tyco (TE Connectivity) type "[YR1B23k7CC](https://www.mouser.de/ProductDetail/TE-Connectivity-Holsworthy/YR1B23K7CC?qs=n4i9pByFsMSkJXItUSDcPw%3D%3D)" (23.7kΩ / 0.1% / 15ppm/°C) [from the Tyco ["YR1-series" (R-series)](https://www.mouser.de/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=TE%20Connectivity&series=R)]
   
 ----  
   
