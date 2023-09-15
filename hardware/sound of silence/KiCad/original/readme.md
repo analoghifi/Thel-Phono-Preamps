@@ -29,7 +29,7 @@ e.g. Vishay "[CMF Industrial](https://www.mouser.com/c/passive-components/resist
 or Vishay [PTF series](https://www.mouser.de/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=PTF) (even lower TCR)  
 or Tyco (TE Connectivity) type "[YR1B23k7CC](https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/YR1B23K7CC?qs=n4i9pByFsMSkJXItUSDcPw%3D%3D)" (23.7kΩ / 0.1% / 15ppm/°C) [from the Tyco ["YR1-series" (R-series)](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=TE%20Connectivity&series=R)]  
 #### U1,U2,U3,U4,U5:  
-instead of LME49720 you can use LM4562 (both Texas Instruments),  
+instead of [LME49720](https://www2.mouser.com/ProductDetail/Texas-Instruments/LME49720NA-NOPB?qs=7lkVKPoqpbYtIqwyg5iDaA%3D%3D) you can use [LM4562](https://www2.mouser.com/ProductDetail/Texas-Instruments/LM4562NA-NOPB?qs=QbsRYf82W3Gc2w4DLq%252BZjw%3D%3D) (both Texas Instruments),  
 these two are 100% identical.
   
 ----  
