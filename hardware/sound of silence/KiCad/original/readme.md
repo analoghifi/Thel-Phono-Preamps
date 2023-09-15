@@ -27,7 +27,10 @@ when using MM-Systems (choosing R<sub>in</sub> = 47kΩ [SW2=0]):
 for lower noise one may use low-TCR-types (25ppm/°C or lower) if available  
 e.g. Vishay "[CMF Industrial](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=CMF%20Industrial)" series  
 or Vishay [PTF series](https://www.mouser.de/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=Vishay&series=PTF) (even lower TCR)  
-or Tyco (TE Connectivity) type "[YR1B23k7CC](https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/YR1B23K7CC?qs=n4i9pByFsMSkJXItUSDcPw%3D%3D)" (23.7kΩ / 0.1% / 15ppm/°C) [from the Tyco ["YR1-series" (R-series)](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=TE%20Connectivity&series=R)]
+or Tyco (TE Connectivity) type "[YR1B23k7CC](https://www.mouser.com/ProductDetail/TE-Connectivity-Holsworthy/YR1B23K7CC?qs=n4i9pByFsMSkJXItUSDcPw%3D%3D)" (23.7kΩ / 0.1% / 15ppm/°C) [from the Tyco ["YR1-series" (R-series)](https://www.mouser.com/c/passive-components/resistors/film-resistors/metal-film-resistors-through-hole/?m=TE%20Connectivity&series=R)]  
+#### U1,U2,U3,U4,U5:  
+instead of LME49720 you can use LM4562 (both Texas Instruments),  
+these two are 100% identical.
   
 ----  
   
