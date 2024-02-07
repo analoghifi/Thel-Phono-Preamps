@@ -32,3 +32,10 @@ https://docs.google.com/spreadsheets/d/1qcIyMvDhxXAbTDFzf901tkU7BbxNvI2y0nLj_5Hb
   
 #### "Sound of Silence":  
 <img src="pics/Sound_of_Silence_2021.jpg" />  
+  
+----  
+Kicad projects in this repo:  
+* ["Sound of Silence"](https://github.com/analoghifi/Thel-Phono-Preamps/tree/main/hardware/sound%20of%20silence/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
+* ["Beautiful Noise"](https://github.com/analoghifi/Thel-Phono-Preamps/tree/main/hardware/beautiful%20noise/KiCad/original) | state: comin soon... | like the original, 1-layer, THT
+
+----
