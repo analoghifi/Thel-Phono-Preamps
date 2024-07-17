@@ -1,9 +1,10 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
-* different board dimensions original: 155mm x 60mm -> this PCB: 155mm x 69.65mm  
-* different mounting hole spacing original: 148mm x 53mm -> this PCB: 148mm x 62mm  
-* make use of my \"universal capacitor footprint\" for the filter caps (C1,C21,C22,C23,C24,C25,C26,C27) -> see here T.B.D.  
-* C1 is in a different location on the board  
-* using a combined 5.0mm/7.5mm pin spacing footprint for all other small (foil and ceramic) caps (C3,C4,C5,C6,C7,C8,C9,C10,C11,C14,C15)  
+* different board dimensions original: 155mm x 60mm -> this PCB: 155mm x 64mm  
+* different mounting hole spacing original: 148mm x 53mm -> this PCB: 148mm x 57mm  
+* "C2" is 462nF (paralleled 2x33nF Wima FKP2 1%) 
+* "C1" is 66nF (paralleled 2x33nF Wima FKP2 1%)
+* "C1" is in a different location on the board  
+* using WIMA FKP2 (instead of ceramics) for the input (load-) Caps as well C3 ..C7  
 * more massive ground and power supply PCB tracks  
 * additional GND track unterneath U1 and U2 
   
