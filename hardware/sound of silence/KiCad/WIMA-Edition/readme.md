@@ -21,7 +21,6 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 ----  
 
 ### remarks:  
-#### C3,C4,C5,C6,C7:  
 #### R6,R7:  
 one can use 23,7kΩ or 24kΩ instead  
 or use 2x47kΩ in parallel each  
