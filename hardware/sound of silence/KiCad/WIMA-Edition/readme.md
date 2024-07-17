@@ -8,7 +8,7 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * different board dimensions original: 155mm x 60mm -> this PCB: 155mm x 64mm  
 * different mounting hole spacing original: 148mm x 53mm -> this PCB: 148mm x 57mm  
-* "C2" is 462nF (paralleled 2x33nF Wima FKP2 1%) 
+* "C2" is 462nF (paralleled 14x33nF Wima FKP2 1%) 
 * "C1" is 66nF (paralleled 2x33nF Wima FKP2 1%)
 * "C1" is in a different location on the board  
 * using WIMA FKP2 (instead of ceramics) for the input (load-) Capacitors as well C3 ..C7  
