@@ -22,13 +22,6 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 
 ### remarks:  
 #### C3,C4,C5,C6,C7:  
-use ceramic C0G capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 50V, 63V or 100V / pitch 5mm or 7,5mm)  
-e.g. KEMET "[goldmax 300](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/C0G/KEMET_C1049_GOLDMAX_C0G_THT.pdf)" Series in THT version  
-The dielectric material is important here: Do NOT use ceramic capacitors with a dielectric other than C0G (NP0) !  
-or alternatively if you don't like ceramic capacitors:  
-small polypropylene Film/Foil Capacitors (tolerance: 1% to 2,5% / rated DC Voltage: 63V or 100V / pitch 5mm or 7,5mm)  
-e.g. KEMET [PFR-("Evox")](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/KEMET_PFR_Serie_KP.pdf)-Series  
-or WIMA [FKP2-Series](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf) (not FKP**0**2)  
 #### R6,R7:  
 one can use 23,7kΩ or 24kΩ instead  
 or use 2x47kΩ in parallel each  
