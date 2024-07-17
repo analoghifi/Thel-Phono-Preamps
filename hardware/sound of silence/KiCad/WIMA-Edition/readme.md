@@ -1,4 +1,4 @@
-### This special edition uses WIMA polypropylene capacitors throughout  
+### This special edition exclusively uses the highly valued WIMA polypropylene capacitors throughout  
 (FKP = highest quality film/foil types for the passive RIAA filter and the input (load-) Capacitors)  
 * C101,C102,C201..C214 = WIMA FKP2 33nF 63V 1% (tanδ = 0.0005)  
 * C3,C4,C6 = WIMA FKP2 100V 1% (tanδ = 0.0005)
