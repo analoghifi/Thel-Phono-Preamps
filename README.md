@@ -38,6 +38,7 @@ https://docs.google.com/spreadsheets/d/1qcIyMvDhxXAbTDFzf901tkU7BbxNvI2y0nLj_5Hb
 ----  
 ### Kicad projects in this repo:  
 * ["Sound of Silence"](https://github.com/analoghifi/Thel-Phono-Preamps/tree/main/hardware/sound%20of%20silence/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
+* ["Sound of Silence WIMA Edition"](https://github.com/analoghifi/Thel-Phono-Preamps/tree/main/hardware/sound%20of%20silence/KiCad/WIMA-Edition) | state: initial release v1.01 | all WIMA Caps | like the original, 1-layer, THT
 * ["Beautiful Noise"](https://github.com/analoghifi/Thel-Phono-Preamps/tree/main/hardware/beautiful%20noise/KiCad/original) | state: coming soon... | like the original, 1-layer, THT
 
 ----
