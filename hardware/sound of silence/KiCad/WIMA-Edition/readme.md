@@ -1,9 +1,9 @@
 #### This special edition uses WIMA polypropylene capacitors throughout  
-(FKP Film/Foil for the passive RIAA filter)  
-* C8,C9,C12,C13,C14,C15 = WIMA MKP2 63V 5% (tanδ = 0.0005)  
+(FKP = highest quality film/foil types for the passive RIAA filter and the input (load-) Capacitors)  
 * C101,C102,C201..C214 = WIMA FKP2 33nF 63V 1% (tanδ = 0.0005)  
 * C3,C4,C6 = WIMA FKP2 100V 1% (tanδ = 0.0005)
 * C5,C7 = WIMA FKP2 47pF 1000V 2.5% (tanδ = 0.0005)
+* C8,C9,C12,C13,C14,C15 = WIMA MKP2 63V 5% (tanδ = 0.0005)  
   
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * different board dimensions original: 155mm x 60mm -> this PCB: 155mm x 64mm  
@@ -11,7 +11,7 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 * "C2" is 462nF (paralleled 2x33nF Wima FKP2 1%) 
 * "C1" is 66nF (paralleled 2x33nF Wima FKP2 1%)
 * "C1" is in a different location on the board  
-* using WIMA FKP2 (instead of ceramics) for the input (load-) Caps as well C3 ..C7  
+* using WIMA FKP2 (instead of ceramics) for the input (load-) Capacitors as well C3 ..C7  
 * more massive ground and power supply PCB tracks  
 * additional GND track unterneath U1 and U2 
   
