@@ -5,7 +5,9 @@
 * C5,C7 = WIMA FKP2 47pF 1000V 2.5% (tanδ = 0.0005)
 * C8,C9,C12,C13,C14,C15 = WIMA MKP2 63V 5% (tanδ = 0.0005)  
   
-this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
+see -> [List of used capacitors for the "WIMA-Edition"](https://github.com/analoghifi/Thel-Phono-Preamps/blob/main/hardware/sound%20of%20silence/KiCad/WIMA-Edition/Capacitor_BOM.md)  
+  
+#### this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * different board dimensions original: 155mm x 60mm -> this PCB: 155mm x 64mm  
 * different mounting hole spacing original: 148mm x 53mm -> this PCB: 148mm x 57mm  
 * "C2" is 462nF (paralleled 14x33nF Wima FKP2 1%) 
