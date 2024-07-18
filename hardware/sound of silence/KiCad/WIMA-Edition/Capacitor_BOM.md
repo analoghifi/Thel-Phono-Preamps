@@ -3,7 +3,7 @@
   
 Quantity | Component | Value | Manufacturer/Series | Manuf.-Type | Vendor | Vendor-Art.-No
 -------- | -------- | -------- | -------- | -------- | -------- | --------
-2 | C8, C9 | 470nF 63V 5%  | WIMA / MKP2 | MKP2C034701M00J   |  |  
+2 | C8, C9 | 470nF 63V 5%  | WIMA / MKP2 | MKP2C034701M00J   | ? | ?  
 x | alternative C8,C9 | 470nF 100V 5%  | WIMA / MKP2 | MKP2D034701M00J | Mouser | 505-MKP2D034701MJSSD
 4 | C12 .. C15 | 100nF 63V 5%  | WIMA / MKP2 | MKP2C031001F00J | Mouser | 505-MKP2C031001F00JS
 x | alternative C12 .. C15 | 100nF 100V 5%  | WIMA / MKP2 | MKP2D031001F00J | Mouser | 505-MKP2D031001FJI00
