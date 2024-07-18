@@ -1,3 +1,6 @@
+### List of used Capacitors for the "WIMA-Edition"  
+  
+  
 Quantity | Component | Value | Manufacturer/Series | Manuf.-Type | Vendor | Vendor-Art.-No
 -------- | -------- | -------- | -------- | -------- | -------- | --------
 2 | C8, C9 | 470nF 63V 5%  | WIMA/MKP2 | MKP2C034701M00J   |  |  
