@@ -12,3 +12,7 @@ x | alternative C12 .. C15 | 100nF 100V 5%  | WIMA / MKP2 | MKP2D031001F00J | Mo
 1 | C4 | 220pF 100V 1% | WIMA / FKP2 | FKP2D002201D00E | buerklin.com | 42D8434
 1 | C6 | 100pF 100V 1% | WIMA / FKP2 | FKP2D001001D00E | buerklin.com | 42D8430
 2 | C5, C7 | 47pF 1000V 2.5% | WIMA / FKP2 | FKP2O100471D00H | Mouser | 505-FKP2O10471D0HO0
+
+WIMA [FKP2-Series Datasheet](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf) (Polypropylene (PP) Film/Foil Capacitors)  
+
+WIMA [MKP2-Series Datasheet](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mkp/e_WIMA_MKP_2.pdf) (Metallized Polypropylene (PP) Film Capacitors)
