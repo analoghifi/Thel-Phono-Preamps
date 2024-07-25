@@ -15,7 +15,23 @@ Quantity | Component | Value | Manufacturer/Series | Manuf.-Type | Vendor | Vend
 -> | alternative C5, C7 | 47pF 1000V 2% | WIMA / FKP2 | [FKP2O100471D00G](https://octopart.com/search?q=FKP2O100471D00G) | ? | ?
 -> | alternative C5, C7 | 47pF 1000V 1.5% | WIMA / FKP2 | [FKP2O100471D00F](https://octopart.com/search?q=FKP2O100471D00F) | ? | ? 
 -> | alternative C5, C7 | 47pF 1000V 1% | WIMA / FKP2 | [FKP2O100471D00E](https://octopart.com/search?q=FKP2O100471D00E) | ? | ?
+-> | alternative C5, C7 | 47pF 250V 1% C0G ceramic | KEMET / Goldmax 300 | [C327C470FAG5TA](https://octopart.com/search?q=C327C470FAG5TA)**\*** | Mouser | [80-C327C470FAG5TA](https://www.mouser.de/ProductDetail/KEMET/C327C470FAG5TA?qs=h3%2Fj8evtlm1OqcZUJ%2F%2FGqA%3D%3D)
+-> | alternative C5, C7 | 47pF 100V 1% C0G ceramic| KYOCERA / AVX | [SR211A470FAA](https://octopart.com/search?q=SR211A470FAA) | Mouser | [581-SR211A470FAA](https://www.mouser.de/ProductDetail/KYOCERA-AVX/SR211A470FAA?qs=k4kUdCzLgS5qmJCMYEwoiw%3D%3D)
 
 WIMA [FKP2-Series Datasheet](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf) (Polypropylene (PP) Film/Foil Capacitors)  
 
-WIMA [MKP2-Series Datasheet](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mkp/e_WIMA_MKP_2.pdf) (Metallized Polypropylene (PP) Film Capacitors)
+WIMA [MKP2-Series Datasheet](https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mkp/e_WIMA_MKP_2.pdf) (Metallized Polypropylene (PP) Film Capacitors)  
+  
+.  
+  
+**\***(you can use the following KEMET Goldmax 300 Types (47pF 250V 1% C0G ceramic) as well:
+[C317C470FAG5TA](https://octopart.com/search?q=C317C470FAG5TA)  
+[C318C470FAG5TA](https://octopart.com/search?q=C318C470FAG5TA)  
+[C322C470FAG5TA](https://octopart.com/search?q=C322C470FAG5TA)  
+[C323C470FAG5TA](https://octopart.com/search?q=C323C470FAG5TA)  
+[C325C470FAG5TA](https://octopart.com/search?q=C325C470FAG5TA)  
+[C327C470FAG5TA](https://octopart.com/search?q=C327C470FAG5TA)  
+[C328C470FAG5TA](https://octopart.com/search?q=C328C470FAG5TA)  )  
+
+
+
