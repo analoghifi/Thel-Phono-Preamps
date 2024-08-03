@@ -11,10 +11,11 @@ Quantity | Component | Value | Manufacturer/Series | Manuf.-Type | Vendor | Vend
 1 | C3 | 470pF 100V 1% | WIMA / FKP2 | [FKP2D004701D00E](https://octopart.com/search?q=FKP2D004701D00E) | buerklin.com | [42D8438](https://www.buerklin.com/en/p/wima/film-capacitors/fkp2d004701d00essd/42D8438/)
 1 | C4 | 220pF 100V 1% | WIMA / FKP2 | [FKP2D002201D00E](https://octopart.com/search?q=FKP2D002201D00E) | buerklin.com | [42D8434](https://www.buerklin.com/en/p/wima/film-capacitors/fkp2d002201d00essd/42D8434/)
 1 | C6 | 100pF 100V 1% | WIMA / FKP2 | [FKP2D001001D00E](https://octopart.com/search?q=FKP2D001001D00E) | buerklin.com | [42D8430](https://www.buerklin.com/en/p/wima/film-capacitors/fkp2d001001d00essd/42D8430/)
-2 | C5, C7 | 47pF 1000V 2.5% | WIMA / FKP2 | [FKP2O100471D00H](https://octopart.com/search?q=FKP2O100471D00H) | Mouser | [505-FKP2O10471D0HO0](https://eu.mouser.com/ProductDetail/WIMA/FKP2O100471D00HO00?qs=WI052HLiD5gTYAbXe%2FIo1g%3D%3D)
--> | alternative C5, C7 | 47pF 1000V 2% | WIMA / FKP2 | [FKP2O100471D00G](https://octopart.com/search?q=FKP2O100471D00G) | ? | ?
+2 | C5, C7 | 47pF 1000V 1% | WIMA / FKP2 | [FKP2O100471D00E](https://octopart.com/search?q=FKP2O100471D00E) | ? | ?
 -> | alternative C5, C7 | 47pF 1000V 1.5% | WIMA / FKP2 | [FKP2O100471D00F](https://octopart.com/search?q=FKP2O100471D00F) | ? | ? 
--> | alternative C5, C7 | 47pF 1000V 1% | WIMA / FKP2 | [FKP2O100471D00E](https://octopart.com/search?q=FKP2O100471D00E) | ? | ?
+-> | alternative C5, C7 | 47pF 1000V 2% | WIMA / FKP2 | [FKP2O100471D00G](https://octopart.com/search?q=FKP2O100471D00G) | ? | ?
+-> | alternative C5, C7 | 47pF 1000V 2.5% | WIMA / FKP2 | [FKP2O100471D00H](https://octopart.com/search?q=FKP2O100471D00H) | Mouser | [505-FKP2O10471D0HO0](https://eu.mouser.com/ProductDetail/WIMA/FKP2O100471D00HO00?qs=WI052HLiD5gTYAbXe%2FIo1g%3D%3D)
+-> | alternative C5, C7 | 47pF 500V 1% silver mica | CDE / CD15 Series | [CD15ED470DO3F](https://octopart.com/search?q=CD15ED470DO3F) | Farnell | [1264876](https://de.farnell.com/en-DE/cornell-dubilier/cd15ed470do3f/cap-47pf-500v-1-through-hole/dp/1264876)
 -> | alternative C5, C7 | 47pF 250V 1% C0G ceramic | KEMET / Goldmax 300 | [C327C470FAG5TA](https://octopart.com/search?q=C327C470FAG5TA)**\*** | Mouser | [80-C327C470FAG5TA](https://www.mouser.de/ProductDetail/KEMET/C327C470FAG5TA?qs=h3%2Fj8evtlm1OqcZUJ%2F%2FGqA%3D%3D)
 -> | alternative C5, C7 | 47pF 100V 1% C0G ceramic| KYOCERA / AVX | [SR211A470FAA](https://octopart.com/search?q=SR211A470FAA) | Mouser | [581-SR211A470FAA](https://www.mouser.de/ProductDetail/KYOCERA-AVX/SR211A470FAA?qs=k4kUdCzLgS5qmJCMYEwoiw%3D%3D)
 
