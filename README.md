@@ -18,7 +18,7 @@ adjustable gain (6-step) / input resistance changeable (by soldering) / input ca
 * <b>\"<a href="/hardware/sound%20of%20silence">Sound of Silence</a>\" 09/2018</b>  
 Mono module / true\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
-two-stage passive RIAA-filter  
+two-stage passive balanced RIAA-filter  
 adjustable input resistor (16-step) / adjustable input capacity (16-step) / adjustable gain (16-step)  
 ➔ https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm  
 
