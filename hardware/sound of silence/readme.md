@@ -1,7 +1,7 @@
 ### RIAA Preamp "Sound of Silence":  
 Mono module / true\* fully symmetrical / balanced input -> balanced filter stages -> balanced output  
 \*(no ground reference at any point in the audio signal chain)  
-two-stage passive RIAA-filter  
+two-stage passive balanced RIAA-filter  
 adjustable input resistor (16-step) / adjustable input capacity (16-step) / adjustable gain (16-step)  
 https://web.archive.org/web/20190109011016/http://www.thel-audioworld.de/module/phono/Phonovorstufe-S.htm  
   
