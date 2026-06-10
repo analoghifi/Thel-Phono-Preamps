@@ -5,5 +5,5 @@ https://www.diy-hifi-forum.eu/forum/showthread.php?20736-Thel-Phono-Pre-quot-Sou
 source of the document: 2020-04_Thel_SoundOfSilence EN.pdf:  
 same document/source as above but automatically translated with deepl.com  
 
-source of the document: The capacitance multiplier revisited.pdf:
+source of the document: The capacitance multiplier revisited.pdf:  
 https://electrical.codidact.com/posts/279580
